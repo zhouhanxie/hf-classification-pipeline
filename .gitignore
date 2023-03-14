@@ -1,0 +1,5 @@
+**annotated_data/
+.ipynb_checkpoints
+checkpoints
+Dev.ipynb
+.__pycache__
